@@ -10,7 +10,7 @@ from movies_scraper import search_movies, get_movie
 
 TOKEN = os.getenv("TOKEN")
 URL = os.getenv("URL")
-bot = Bot(TOKEN)
+bot = Bot(5930820083:AAE4h2XGFYGhZd2tFFtCPSYtlHa06jNSHdc)
 
 
 def welcome(update, context) -> None:
